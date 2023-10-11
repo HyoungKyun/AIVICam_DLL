@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AIVICam_Lib.cpp
+  CamFunction.cpp
+  dllmain.cpp
+D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\dllmain.cpp(2,1): warning C4005: 'AIVICAM_EXPORTS': 매크로 재정의
+D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\dllmain.cpp(2,1): message : 이전에 명령줄에서 선언된 'AIVICAM_EXPORTS'
+D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\dllmain.cpp(2,1): warning C4603: 'AIVICAM_EXPORTS': 매크로가 정의되지 않았거나 미리 컴파일된 헤더 사용 후와 정의가 다릅니다.
+D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\dllmain.cpp(2,1): message : 여기에서 정의하지 않고 미리 컴파일된 헤더에 매크로 추가
+D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\dllmain.cpp(3,1): message : 미리 컴파일된 헤더 사용
+  코드를 생성하고 있습니다...
+     D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\x64\Debug\AIVICam.lib 라이브러리 및 D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\x64\Debug\AIVICam.exp 개체를 생성하고 있습니다.
+  AIVICam.vcxproj -> D:\AIVIWORKS\Project\A_Scout_SDK\Source\SDK_Test\AIVICam\x64\Debug\AIVICam.dll
